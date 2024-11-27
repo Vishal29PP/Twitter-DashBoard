@@ -56,9 +56,9 @@ Step 9 : We will again use the Gauge to display the sum of retweets. Drag and dr
 
 Step 10 : We will use slicer to display month name. Drag and drop the "MonthName".
 
-![slicer](https://github.com/user-attachments/assets/18572359-41f0-4b73-86d9-799af014db8a)
+![slc2](https://github.com/user-attachments/assets/f617c590-b64a-4a4c-9cb0-92cd0d0033a3)
 
-### Snapshot of Dashboard (Power BI Services)
+### Snapshot of Dashboard 
 
 ![Project dashboard](https://github.com/user-attachments/assets/163af122-ef20-49d2-a4f5-88dda75ffe35)
 
