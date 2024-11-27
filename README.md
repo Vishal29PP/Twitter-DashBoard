@@ -4,7 +4,7 @@
 
 ## Overview
 
-Twitter analytics provides valuable insights into audience behavior,preferences and engagement with your content,enabling data-driven decision-making for marketing strategies and brand management. By analyzing Twitter data, business can track trends, sentiments, and conversation around their brand, products, or industry, facilitating proactive response and strategic adjustments.Twitter analytics allows for the assessment of the effectiveness of marketing campaigns, helping businesses optimize their content and investment for maximum impact.
+Twitter analytics provides valuable insights into audience behavior,preferences and engagement with your content, enabling data-driven decision-making for marketing strategies and brand management. By analyzing Twitter data, business can track trends, sentiments, and conversation around their brand, products, or industry, facilitating proactive response and strategic adjustments. Twitter analytics allows for the assessment of the effectiveness of marketing campaigns, helping businesses optimize their content and investment for maximum impact.
 
 ### Steps followed For Data Cleaning
 
@@ -29,6 +29,20 @@ Step 2 : We will use line chart to display the count of tweet by dayweek. Drag a
 Step 3 : We will again use the line chart to display the sum of impression by dayweek. Drag and drop the "Dayweek" in x-axis and "Sum of impression" in y-axis.
 
 ![linechar2](https://github.com/user-attachments/assets/d6661e92-940c-4679-aef9-6e5b3c95e696)
+
+Step 4 : We will use Clustered Column chart to display the count of media views and count of media engagements by Dayweek. Drag and drop "Dayweek" in x-axis and "Count of media views", "Count of media engagements" in y-axis.
+
+![Clchart](https://github.com/user-attachments/assets/2149c111-6359-4ec0-957b-be8c527c4396)
+
+Step 5 : We will use the Clustered Column chart to display the count of tweet by dayweek. Drag and drop the "Dayweek" in x-axis and "Count of tweet" in y-axis.
+
+![ccl2](https://github.com/user-attachments/assets/cd620387-ecb0-45da-aa1d-e74db5848694)
+
+Step 6 : We will use the Clustered bar chart to display the sum of url clicks by tweet. Drag and drop the "Tweet" in x-axis and "Sum of url clicks" in y-axis.
+
+![clusbarchart](https://github.com/user-attachments/assets/d83aa3ce-114e-4172-ab2e-8a1ca80cfebf)
+
+Step 7 : We will use the pie chart to display the count of hashtag clicks, url clicks, user profile clicks. Drag and drop the "Count of hashtag clicks", "Count of url clicks", "Count of user profile clicks" in values.
 
 
 
