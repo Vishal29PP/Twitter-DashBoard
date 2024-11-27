@@ -44,5 +44,23 @@ Step 6 : We will use the Clustered bar chart to display the sum of url clicks by
 
 Step 7 : We will use the pie chart to display the count of hashtag clicks, url clicks, user profile clicks. Drag and drop the "Count of hashtag clicks", "Count of url clicks", "Count of user profile clicks" in values.
 
+![piechart](https://github.com/user-attachments/assets/715b39dc-4610-4698-9cd3-f5edd6010e44)
+
+Step 8 : We will use the Gauge to display the sum of likes. Drag and drop the "Sum of likes" in values.
+
+![gauge1](https://github.com/user-attachments/assets/99cfc057-e7f0-432b-ba60-26155f956300)
+
+Step 9 : We will again use the Gauge to display the sum of retweets. Drag and drop the "Sum of retweets" in values.
+
+![gauge2](https://github.com/user-attachments/assets/38e9f7c2-0c09-498b-bc71-95d32cc24e41)
+
+Step 10 : We will use slicer to display month name. Drag and drop the "MonthName".
+
+![slicer](https://github.com/user-attachments/assets/18572359-41f0-4b73-86d9-799af014db8a)
+
+### Snapshot of Dashboard (Power BI Services)
+
+![Project dashboard](https://github.com/user-attachments/assets/163af122-ef20-49d2-a4f5-88dda75ffe35)
+
 
 
