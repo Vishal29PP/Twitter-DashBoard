@@ -22,5 +22,13 @@ Step 1: We will use Card visual to display the Tweet count, Engagement Rate, Med
 
 ![Cards](https://github.com/user-attachments/assets/11c55e9a-e610-4c02-81bd-4a9a7d4833f0)
 
+Step 2 : We will use line chart to display the count of tweet by dayweek. Drag and drop the "Dayweek" in x-axis and "Count of Tweet" in y-axis.
+
+![Linechart1](https://github.com/user-attachments/assets/f8ac884a-370b-4695-8389-b2bf84821c4b)
+
+Step 3 : We will again use the line chart to display the sum of impression by dayweek. Drag and drop the "Dayweek" in x-axis and "Sum of impression" in y-axis.
+
+![linechar2](https://github.com/user-attachments/assets/d6661e92-940c-4679-aef9-6e5b3c95e696)
+
 
 
