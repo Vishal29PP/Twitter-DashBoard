@@ -19,6 +19,7 @@ Twitter analytics provides valuable insights into audience behavior,preferences 
 ### Visual Insights
 
 Step 1: We will use Card visual to display the Tweet count, Engagement Rate, Media Views, Impressions. Drag and drop the "Count of Tweet", "Average of engagement rate", "Sum of media views", "Count of impressions"
+
 ![Cards](https://github.com/user-attachments/assets/11c55e9a-e610-4c02-81bd-4a9a7d4833f0)
 
 
